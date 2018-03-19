@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- TODO Remove the following "exclude" elements to make them a part of the auto backup -->
+    <include
+        domain="sharedpref"
+        path="com.androiddesdecero.autobackup.SHARED_PREF_INCLUDE" />
+</full-backup-content>
